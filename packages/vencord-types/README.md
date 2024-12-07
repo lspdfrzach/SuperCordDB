@@ -1,4 +1,4 @@
-# Vencord Types
+# SuperCord Types
 
 Typings for Vencord's api, published to npm
 
